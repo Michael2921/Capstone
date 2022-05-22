@@ -1,4 +1,4 @@
-mmkdir -p ~/.streamlit/credentials.toml
+mkdir -p ~/.streamlit/credentials.toml
 
 echo "/
 [server]\n\
