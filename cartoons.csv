@@ -1,0 +1,223 @@
+,cartoon_names,release_date,end_date,genre,imdb_score
+0,Yogi Bear,1961,1988.0,An-Com-Fam,6.6
+1,The New Yogi Bear Show,1988,1990.0,An-Com-Fam,6.6
+2,The Huckleberry Hound Show,1958,1962.0,An-Com-Fam,6.6
+3,Popeye the Sailor,1960,1962.0,An-Adv-Com,7.1
+4,The Bugs Bunny Show,1960,1975.0,An-Com-Fam,8.6
+5,The Road Runner Show,1966,1973.0,An-Com-Fam,7.9
+6,The Bugs Bunny/Road Runner Show,1978,1985.0,An-Com-Fam,8.3
+7,The Bugs Bunny/Road Runner Hour,1968,1978.0,An-Com-Fam,8.5
+8,"The Sylvester & Tweety, Daffy & Speedy Show",1981,1985.0,An-Com-Fam,7.4
+9,The Bugs Bunny and Tweety Show,1986,2000.0,An-Com-Fam,7.8
+10,The Sylvester & Tweety Show,1976,,An-Com-Fam,7.3
+11,The Bugs n' Daffy Show,1996,1999.0,An-Com-Fam,8.1
+12,The Daffy Duck Show,1978,,An-Com-Fam,7.5
+13,The Popeye Show,2001,,An-Com-Fam,7.6
+14,The All-New Popeye Hour,1978,1983.0,An-Short-Adv,7.0
+15,The Pink Panther,1993,1996.0,An-Com-Fam,6.8
+16,The Pink Panther Show,1969,2011.0,An-Com-Fam,7.6
+17,The All New Pink Panther Show,1978,,An-Com-Fam,7.1
+18,The Pink Panther Laugh and a Half Hour and a Half Show,1976,,An-Com-Fam,7.5
+19,The Secret Squirrel Show,1965,2003.0,An-Cr-Fam,6.7
+20,The Atom Ant/Secret Squirrel Show,1967,1968.0,An-Com-Fam,7.0
+21,The Atom Ant Show,1965,1968.0,An-Act-Com,6.4
+22,The Gary Coleman Show,1982,,An-Com-Fam,6.2
+23,Kick Buttowski: Fearless City Boy,2010,2012.0,An-Act-Adv,6.6
+24,Tom and Jerry,2010,,An-Com-Fam,7.7
+25,Tom & Jerry Kids Show,1990,1994.0,An-Com-Fam,6.2
+26,Tom and Jerry Tales,2006,2008.0,An-Com-Fam,7.3
+27,The Tom and Jerry Show,2014,2022.0,An-Short-Adv,7.0
+28,The New Adventures of Tom and Jerry,1980,1982.0,An-Com-Fam,7.6
+29,Wacky Races,1968,1970.0,An-Com-Fam,7.5
+30,The Perils of Penelope Pitstop,1969,1971.0,An-Com-Fam,6.4
+31,Wait Till Your Father Gets Home,1972,1974.0,An-Com-Fam,7.7
+32,Duck Dodgers,2003,2005.0,An-Short-Act,7.8
+33,Mickey Mouse Club House,2006,2016.0,An-Adv-Com,5.7
+34,Shaggy and Scooby-Doo In Search of Clues!,2006,2008.0,An-Act-Adv,4.4
+35,Scooby-Doo! Mystery Hunters,2010,2013.0,An-Adv-Com,8.1
+36,"What's New, Scooby-Doo?",2002,2006.0,An-Adv-Com,7.2
+37,The New Scooby-Doo Movies,1972,1973.0,An-Adv-Com,7.6
+38,13 Ghosts of Scooby Doo,1985,1986.0,An-Adv-Com,7.3
+39,The Ri¢hie Ri¢h/Scooby-Doo Show,1980,1982.0,An-Short-Adv,6.3
+40,The Scooby and Scrappy-Doo Puppy Hour,1982,,An-Adv-Com,6.6
+41,"Scooby Doo, Where Are You!",1969,1970.0,An-Adv-Com,7.9
+42,The Magilla Gorilla Show,1964,1967.0,An-Com-Fam,6.2
+43,Dastardly and Muttley in Their Flying Machines,1965,1970.0,An-Com-Fam,7.1
+44,Top Cat,1961,1962.0,An-Com-Cr,7.1
+45,Captain Caveman and the Teen Angels,1977,1980.0,An-Short-Com,6.4
+46,The Woody Woodpecker Show,1940,1972.0,An-Short-Com,7.0
+47,The Smurfs,1981,1989.0,An-Adv-Com,7.2
+48,The Sylvester & Tweety Mysteries,1995,2001.0,An-Adv-Com,7.0
+49,Underdog,1964,1973.0,An-Act-Adv,7.2
+50,Josie and the Pussycats,1970,1972.0,An-Com-Fam,6.2
+51,House of Mouse,2001,2003.0,An-Com-Fam,7.5
+52,Disneyland,1954,1997.0,Adv-Dram-Fam,8.4
+53,The Mickey Mouse Club,1955,1958.0,Com-Dram-Fam,7.6
+54,The Dudley Do-Right Show,1969,1970.0,An-Adv-Com,6.7
+55,Rocky and His Friends,1959,1963.0,An-Com-Fam,7.8
+56,George of the Jungle,1967,1970.0,An-Adv-Com,6.7
+57,The Gumby Show,1956,1969.0,An-Adv-Com,7.0
+58,Schoolhouse Rock!,1973,2009.0,An-Short-Fam,8.2
+59,George of the Jungle,2007,2008.0,An-Adv-Com,4.2
+60,The Electric Company,1971,2009.0,An-Com-Fam,8.1
+61,Gumby Adventures,1988,2002.0,An-Adv-Com,7.2
+62,The Magic School Bus,1994,1997.0,An-Adv-Com,7.8
+63,"Bill Nye, the Science Guy",1993,1998.0,Doc-Com-Fam,8.2
+64,The Berenstain Bears,1985,2003.0,An-Com-Fam,6.9
+65,Little Lulu to chicchai nakama,1976,1977.0,An-Com-Fam,6.7
+66,The Little Lulu Show ,1995,1999.0,An-Com-Fam,7.2
+67,Word World,2007,,An-Com-Fam,6.6
+68,Super Why!,2007,2016.0,An-Com-Fam,6.1
+69,Charlie and Lola ,2005,2008.0,An-Com-Fam,6.6
+70,Martha Speaks,2008,2016.0,An-Com-Fam,6.6
+71,Max & Ruby,2002,2021.0,An-Com-Fam,6.1
+72,The Backyardigans,2004,2013.0,An-Adv-Com,7.0
+73,Dora the Explorer,2000,2019.0,An-Adv-Com,4.1
+74,PAW Patrol,2013,,An-Adv-Com,6.1
+75,WordGirl,2007,2022.0,An-Short-Act,7.0
+76,Wow! Wow! Wubbzy!,2006,2021.0,An-Short-Fam,6.2
+77,Bob the Builder,1997,2018.0,An-Com-Fam,5.5
+78,FETCH! with Ruff Ruffman,2006,2010.0,An-Com-Fam,7.3
+79,Cyberchase,2002,,An-Short-Adv,6.9
+80,Arthur,1996,2022.0,An-Short-Adv,7.4
+81,"Go, Diego! Go!",2005,2011.0,An-Adv-Com,4.2
+82,Handy Manny,2006,2013.0,An-Com-Fam,5.5
+83,Wild Kratts,2010,,An-Adv-Com,7.7
+84,Odd Squad,2014,,Act-Adv-Com,7.1
+85,Between the Lions,1999,,An-Com-Fam,7.1
+86,Little Einsteins,2005,2010.0,An-Adv-Com,6.2
+87,Wonder Pets!,2005,2013.0,An-Adv-Fam,6.5
+88,Team Umizoomi,2010,2015.0,An-Com-Fam,6.1
+89,Daniel Tiger's Neighboor,2012,,An-Fam-Fantas,7.4
+90,Bubble Guppies,2011,2022.0,An-Short-Adv,6.3
+91,Curious George,2006,2022.0,An-Short-Adv,7.2
+92,64 Zoo Lane,1999,2013.0,An-Com-Fam,6.5
+93,Pocoyo,2005,,An-Com-Fam,7.3
+94,Jakers! The Adventures of Piggley Winks,2003,2007.0,An-Short-Adv,6.8
+95,Postman Pat,1981,2017.0,An-Com-Fam,6.3
+96,Brum,1991,2002.0,An-Com-Fam,6.1
+97,George Shrinks,2000,2003.0,An-Com-Fam,6.6
+98,Peppa Pig,2004,,An-Adv-Com,6.3
+99,Ben & Holly's Little Kingdom,2009,2013.0,An-Adv-Com,7.4
+100,Franklin,1997,2006.0,An-Com-Fam,6.4
+101,The Berenstain Bears,2002,2004.0,An-Com-Fam,7.2
+102,Little Bill,1999,2004.0,An-Com-Fam,6.4
+103,Dragon Tales,1999,2005.0,An-Adv-Dram,6.3
+104,Blue's Clues,1996,2020.0,An-Com-Fam,6.9
+105,Maggie and the Ferocious Beast,1998,,An-Com-Fam,6.5
+106,Little Bear,1995,2003.0,An-Adv-Fam,7.3
+107,Rolie Polie Olie,1998,2007.0,An-Com-Fam,6.3
+108,Oswald,2001,2003.0,An-Fam-Musical,7.5
+109,Jack's Big Music Show,2005,,An-Fam-Musical,7.3
+110,The Upside Down Show,2006,,An-Com-Fam,8.6
+111,Oobi,2000,2005.0,An-Com-Fam,7.4
+112,Barney & Friends,1992,2010.0,An-Com-Fam,3.8
+113,Teletubbies,1997,2001.0,Fam-Fantas-Musical,3.7
+114,Noddy,1998,2000.0,An-Com-Fam,5.6
+115,Blaze and the Monster Machines,2014,2022.0,An-Act-Adv,5.5
+116,Dragon Ball,1995,2003.0,An-Act-Adv,8.6
+117,Dragon Ball: Doragon bôru,1986,1989.0,An-Act-Adv,8.6
+118,Superman,1952,1958.0,Act-Adv-Cr,7.7
+119,Lois and Clark: The New Adventures of Superman,1993,1997.0,Adv-Com-Dram,6.7
+120,Superboy,1988,1992.0,Adv-Fantas-SciFi,6.0
+121,Superman,1996,2000.0,An-Act-Adv,8.1
+122,Batman: Abyss,2013,,An-Act-Adv,7.2
+123,Rusty Rivets,2016,2020.0,An-Com-Fam,5.1
+124,Pjmasks,2015,,An-Act-Adv,5.4
+125,Pingu,1980,2006.0,An-Short-Com,7.4
+126,Bear in the Big Blue House,1997,2006.0,Com-Dram-Fam,6.8
+127,Thomas the Tank Engine & Friends,1984,2021.0,An-Short-Adv,6.5
+128,Bananas in Pyjamas,1992,2001.0,An-Com-Fam,5.5
+129,Fireman Sam,1997,2022.0,An-Com-Fam,6.1
+130,Zoboomafoo,1999,2001.0,An-Com-Fam,7.6
+131,"Sagwa, the Chinese Siamese Cat",2001,2004.0,An-Adv-Com,7.2
+132,Zoom,1997,,Com-Dram-Fam,7.2
+133,Creative Galaxy,2013,2019.0,An-Fam-SciFi,5.0
+134,Dinosaur Train,2009,2020.0,An-Com-Fam,6.4
+135,Curious George,1980,,An-Com-Fam,7.0
+136,The Koala Brothers,2003,2007.0,An-Adv-Com,6.8
+137,The Adventures of Spot,1987,1993.0,An-Adv-Fam,6.6
+138,Art Attack,1990,2007.0,An-Com-Fam,7.4
+139,PB&J Otter,1998,2001.0,An-Com-Fam,6.9
+140,Sesame Street,1969,,An-Adv-Com,8.1
+141,The Muppet Show,1976,1981.0,Com-Fam-Musical,8.4
+142,Make Way for Noddy,2001,,An-Com-Fam,5.5
+143,The Lion Guard,2015,2022.0,An-Act-Adv,6.4
+144,Elena of Avalor,2016,2020.0,An-Act-Adv,6.3
+145,Rupert,1991,2020.0,An-Adv-Fam,7.0
+146,Kipper,1997,2000.0,An-Short-Com,7.0
+147,Baby Looney Tunes,2001,2005.0,An-Adv-Com,6.1
+148,Noddy in Toyland,2009,,An-Com-Fam,5.8
+149,"Ni Hao, Kai-Lan",2007,2011.0,An-Fam-Fantas,5.1
+150,The Adventures of Paddington Bear,1997,2000.0,An-Adv-Fam,7.0
+151,Paddington,1976,1993.0,An-Com-Fam,7.1
+152,The Animals of Farthing Wood,1993,1995.0,An-Adv-Dram,8.3
+153,Tiny Toon Adventures,1990,1995.0,An-Short-Adv,7.5
+154,The Stinky & Dirty Show,2015,2019.0,An-Com-Fam,7.4
+155,Noddy's Toyland Adventures,1992,1999.0,An-Com-Fam,6.0
+156,The Wombles,1973,1975.0,An-Com-Fam,6.9
+157,The Clangers,1969,1974.0,An-Fam-SciFi,7.4
+158,Rainbow,1972,1992.0,An-Fam-TalkShow,6.9
+159,Mr Benn,1971,2005.0,An-Com-Fam,7.5
+160,Ivor the Engine,1976,1977.0,An-Com-Fam,7.4
+161,Il était une fois... l'homme,1978,1981.0,An-Adv-Dram,8.1
+162,Animaniacs,1993,1998.0,An-Short-Adv,7.9
+163,Trumpton,1967,,An-Com-Fam,7.5
+164,Camberwick Green,1966,,An-Com-Fam,7.6
+165,Chigley,1969,,An-Com-Fam,7.5
+166,Special Agent Oso,2009,2012.0,An-Act-Adv,5.1
+167,Jojo's Circus,2003,,An-Com-Fam,5.0
+168,Jake and the Never Land Pirates,2011,2016.0,An-Adv-Fam,5.6
+169,Darkwing Duck,1001,1992.0,An-Act-Adv,7.6
+170,Imagination Movers,2008,2013.0,An-Com-Fam,7.1
+171,Doc McStuffins,2012,2020.0,An-Fam-Fantas,6.6
+172,Henry Hugglemonster,2013,2015.0,An-Adv-Fam,5.0
+173,Jungle Junction,2009,,An-Adv-Com,5.4
+174,Higglytown Heroes,2004,2008.0,An-Com-Fam,4.8
+175,VeggieTales,1993,,An-Com-Fam,7.2
+176,Chuggington,2008,2021.0,An-Adv-Com,5.8
+177,The Octonauts,2010,,An-Adv-Com,7.6
+178,Yo Gabba Gabba!,2007,2020.0,Com-Dram-Fam,6.8
+179,Pinky Dinky Doo,2005,2009.0,An-Fam-Fantas,6.2
+180,Out of the Box,1998,2004.0,Fam-Fantas-Musical,7.4
+181,Tumble Leaf,2013,2019.0,An-Short-Adv,8.6
+182,Wishenpoof,2014,2019.0,An-Fam-Fantas,5.0
+183,The Adventures of Blinky Bill,1993,2004.0,An-Adv-Com,6.3
+184,Fraggle Rock,1983,1987.0,An-Adv-Com,7.9
+185,Miles From Tomorrowland,2015,2018.0,An-Adv-Fam,6.4
+186,Lazy Town,2002,2014.0,Adv-Com-Fam,5.9
+187,Sooty & Co.,1993,1998.0,Adv-Com-Fam,6.9
+188,Noah's Island,1997,1999.0,Adv-An-Fam,7.3
+189,Button Moon,1980,1988.0,An-Com-Fam,7.0
+190,DuckTales,1987,1990.0,An-Act-Adv,8.1
+191,Adventures of the Gummi Bears,1985,1991.0,An-Adv-Fam,7.5
+192,Goof Troop,1992,1993.0,An-Adv-Com,6.8
+193,Taz-Mania,1991,1995.0,An-Adv-Com,6.7
+194,The Jetsons,1962,1963.0,An-Com-Fam,7.0
+195,Pinky and the Brain,1995,1998.0,An-Short-Adv,7.8
+196,Chip 'n Dale: Rescue Rangers,1988,1990.0,An-Act-Adv,7.5
+197,TaleSpin,1990,1991.0,An-Act-Adv,7.6
+198,Rapunzel: Serüvenler,2017,2020.0,An-Act-Adv,7.6
+199,Tangled: Before Ever After,2017,,An-Act-Adv,6.5
+200,Sheriff Callie's Wild West,2013,2017.0,An-Act-Adv,6.3
+201,Miss Spider's Sunny Patch Friends,2004,2008.0,An-Adv-Dram,6.4
+202,VeggieTales in the House,2014,2016.0,An-Short-Adv,4.1
+203,VeggieTales: Madame Blueberry,1998,,An-Short-Fam,7.1
+204,Go Jetters,2015,,An-Com-Fam,7.8
+205,The Wiggles,1998,,Adv-Com-Fam,5.8
+206,ChalkZone,2002,2009.0,An-Short-Adv,6.5
+207,Sofia the First,2012,2018.0,An-Adv-Fam,6.8
+208,Marsupilami,1993,,An-Short-Adv,6.1
+209,Annedroids,2013,2017.0,An-Fam-SciFi,5.9
+210,Shimmer and Shine,2015,2020.0,An-Adv-Fam,5.0
+211,Lost in Oz,2015,2018.0,An-Fam-Fantas,7.5
+212,Goldie and Bear,2015,2018.0,An-Fam-Fantas,6.1
+213,Kate and Mim-Mim,2014,,An-Com-Fam,5.1
+214,"Noddy, Toyland Detective",2016,,An-Fam-Fantas,5.9
+215,Floogals,2016,,An-Fam-Fantas,6.1
+216,Mickey and the Roadster Racers,2017,2021.0,An-Short-Adv,6.0
+217,Inspecteur Gadget,1983,1986.0,An-Short-Adv,6.7
+218,Dora and Friends: Into the City!,2014,,An-Adv-Fam,3.6
+219,The Ollie & Moon Show,2017,,An-Com-Fam,8.3
+220,Whisker Haven Tales with the Palace Pets,2015,,An-Com-Fam,7.9
+221,Pee-wee's Playhouse,1986,1991.0,An-Com-Musical,8.1
