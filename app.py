@@ -1,5 +1,6 @@
-import streamlit as st
+import matplotlib.pyplot as plt
 import pandas as pd
+import streamlit as st
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
@@ -11,7 +12,6 @@ cartoon_data.drop("Unnamed: 0", axis=1, inplace=True)
 cartoon_data.isna().sum()
 
 # 45 rows have missing data. We could fill up the rows or drop them. I chose to fill the rows with accurate data from the internet
-# Shows still running are dropped
 
 # Drop rows with shows that don't have end dates
 
